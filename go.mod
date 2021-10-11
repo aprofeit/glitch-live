@@ -1,9 +1,9 @@
 module github.com/gwuhaolin/livego
 
-go 1.13
+go 1.17
 
 require (
-	github.com/auth0/go-jwt-middleware v0.0.0-20190805220309-36081240882b
+	github.com/auth0/go-jwt-middleware v1.0.1
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/go-redis/redis/v7 v7.2.0
 	github.com/gorilla/mux v1.7.4 // indirect
