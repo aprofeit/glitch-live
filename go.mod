@@ -1,6 +1,6 @@
 module github.com/gwuhaolin/livego
 
-go 1.17
+go 1.13
 
 require (
 	github.com/auth0/go-jwt-middleware v1.0.1
